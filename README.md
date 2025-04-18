@@ -138,7 +138,7 @@ await db.StringSetAsync($"activity:{userId}", JsonSerializer.Serialize(activityD
 - Further scalability testing and optimization in multi-region deployments.
 
   Access Server Project: [Here](https://github.com/largna/RizzSim2077Server)  
-  Access Server Design Document: [Here](https://github.com/largna/largna.github.io/raw/main/Materials/sunghwan.cho_RizzSim2077.pdf)
+  Access Server Design Document: [Here](https://github.com/largna/largna.github.io/blob/main/Materials/sunghwan.cho_RizzSim2077.pdf)
 
   <img src="https://largna.github.io/Materials/RizzSim2077/sunghwan.cho_RizzSim2077_Whiteboard.png" style="width:100%; max-width:1000px;" alt="Project Screenshot">
 
