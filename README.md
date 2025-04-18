@@ -11,9 +11,9 @@ Backend & Network Engineer with 3 + years of hands‑on experience designing
   Developed a sample scene featuring a roller coaster in a grass field, incorporating all learned techniques as a final output.  
     
   Download Project: [Here](https://github.com/sangbeom-kim/sangbeom-kim.github.io/raw/main/Files/CS250_Graphics_Project.zip)  
-    
-  <img src="https://sangbeom-kim.github.io/Medias/Graphics Project.png" style="width:100%; max-width:1000px;" alt="Project Screenshot">
 -->
+  <img src="https://largna.github.io/Materials/Engine/Collaboration.gif" style="width:100%; max-width:1000px;" alt="Project Screenshot">
+
 
 ---
 
