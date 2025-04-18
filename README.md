@@ -143,10 +143,10 @@ await db.StringSetAsync($"activity:{userId}", JsonSerializer.Serialize(activityD
   <img src="https://largna.github.io/Materials/RizzSim2077/sunghwan.cho_RizzSim2077_Whiteboard.png" style="width:100%; max-width:1000px;" alt="Project Screenshot">
 
 ---
-
+<!--
 ### 3. Megalocheplao
 
-<!--
+
   My first team game project, where I developed the entire graphics and image engine.  
   A 2D hide-and-seek action game where players complete spy missions in each level by hiding from enemies or eliminating them.  
     
